@@ -1,0 +1,12 @@
+{
+  "id": "q001",
+  "type": "multiple_choice",
+  "level": "junior",
+  "category": "programming",
+  "question": "Trong Python, hàm nào dùng để in ra màn hình?",
+  "options": ["echo()", "console()", "print()", "printf()"],
+  "answer": "print()",
+  "time_limit": 25,
+  "hint": "Hàm mặc định trong Python.",
+  "help_available": ["50_50", "hint"]
+}

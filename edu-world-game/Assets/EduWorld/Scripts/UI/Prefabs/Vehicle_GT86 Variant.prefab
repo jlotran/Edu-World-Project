@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3560368978669510934
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 614569757, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1690034612, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389481984232, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610645, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_Name
+      value: Vehicle_GT86 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610648, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: sound.enginePosition
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389525610653, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389632249931, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389690790835, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389768398905, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786389884512765, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786390006112215, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786390620698031, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786390728742479, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: 'm_ActiveFontFeatures.Array.data[0]'
+      value: 1801810542
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786390755212921, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1006786390957304804, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3960034610831562060, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 1006786390620698031, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    - {fileID: 3960034610831562060, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    - {fileID: 1006786390755212921, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    - {fileID: 1006786389481984232, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    - {fileID: 1690034612, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    - {fileID: 1006786389632249931, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    - {fileID: 1006786390957304804, guid: 92a9029459482164ba6784796e3a4399, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 92a9029459482164ba6784796e3a4399, type: 3}

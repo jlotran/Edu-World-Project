@@ -1,0 +1,15 @@
+{
+  "id": "q005",
+  "type": "ordering",
+  "level": "senior",
+  "category": "process",
+  "prompt": "Sắp xếp các bước viết một chương trình:",
+  "items": [
+    "Phân tích yêu cầu",
+    "Viết mã nguồn",
+    "Kiểm thử",
+    "Triển khai"
+  ],
+  "correct_order": [0, 1, 2, 3],
+  "time_limit": 35
+}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be3ac97fbaaac5f4086030a6e5342b64, type: 3}
+  m_Name: Mistra
+  m_EditorClassIdentifier: 
+  id:
+    value: d6446f23-b901-42e5-aed3-870eb31a9278
+  objectName: Mistra
+  description: 
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 2041115229, guid: db13718e23b1cbc40915010f4c7ce9b2, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  prefab: {fileID: 8687735555898329569, guid: 3376151a55a35904f9340e9c3ed031d3, type: 3}
+  manufacturer: {fileID: 0}
+  vehicleClass: {fileID: 0}
+  defaultStats:
+    speed: 0.447
+    acceleration: 0.414
+    braking: 0.464
+    handling: 0.443
+    color: 3
+  year: 2024

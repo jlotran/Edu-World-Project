@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - CinemachineTarget
+  - Bullet
+  - Car_Interact
+  - Shop_Interact
+  - Door_Interact
+  - CarTrigger
+  - PlayerCameraInventory
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - RGSK_Vehicle
+  - RGSK_Ghost
+  - RGSK_Minimap
+  - RGSK_Obstacle
+  - RGSK_PostProcessing
+  - Mesh
+  - PlayerCity
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

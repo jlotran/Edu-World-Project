@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 8e4631e0943452945b8a2107aca9fe0e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 360
+        width: 887
+        height: 1086
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 39}
+      customData: 
+      outline:
+      - - {x: 443.5, y: 505}
+        - {x: 406.5, y: 541}
+        - {x: -443.5, y: 541}
+        - {x: -443.5, y: -541}
+        - {x: 443.5, y: -541}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a765a23706910f4f8ba8a119aeaa325
+      internalID: -680370761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 253
+        width: 341
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 16, z: 10, w: 5}
+      customData: 
+      outline:
+      - - {x: 164, y: -21.5}
+        - {x: 164, y: -3.5}
+        - {x: 164, y: 34.5}
+        - {x: -169, y: 34.5}
+        - {x: -169, y: -25.5}
+        - {x: -161, y: -34.5}
+        - {x: 169, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab14a64577ee0540bba874e712b4fea
+      internalID: 1100901020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 279
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771a9e8b595db147b347350883935bf
+      internalID: 1006272408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 274
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89f36f8fc4de640abc8c98f3b90886
+      internalID: -1584489348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb362c99a2f554cb90dd895bf44a4b
+      internalID: 206137613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 271
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9abb189baeeaf041ad24dc056e1395a
+      internalID: 41167953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 147
+        width: 393
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 16, z: 15, w: 0}
+      customData: 
+      outline:
+      - - {x: 196.5, y: -25.5}
+        - {x: 196.5, y: 34.5}
+        - {x: -189.5, y: 34.5}
+        - {x: -188.5, y: -0.5}
+        - {x: -188.5, y: -23.5}
+        - {x: -196.5, y: -34.5}
+        - {x: 187.5, y: -34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ada48944cd354fa6cfdf3f7afbf11
+      internalID: -660047275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 146
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 37, y: -27}
+        - {x: 37, y: 35}
+        - {x: -31, y: 35}
+        - {x: -37, y: 29}
+        - {x: -37, y: -35}
+        - {x: 30, y: -35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbddacb554e7a3c4a81e8ed967bd0e65
+      internalID: -1417420654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 191
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576a4421f43d9541aab03c9d99dea20
+      internalID: 41358056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 46
+        width: 617
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e344b0c46dbe41942506f46ce757a
+      internalID: 348949252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChatMessageSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 255
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46aa04222e855e4ea8366f607f95601
+      internalID: 1658237714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fef68e63131ff7a41bcec94123b04688
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChatMessageSpriteSheet_0: -680370761
+      ChatMessageSpriteSheet_1: 1100901020
+      ChatMessageSpriteSheet_10: 1658237714
+      ChatMessageSpriteSheet_2: 1006272408
+      ChatMessageSpriteSheet_3: -1584489348
+      ChatMessageSpriteSheet_4: 206137613
+      ChatMessageSpriteSheet_5: 41167953
+      ChatMessageSpriteSheet_6: -660047275
+      ChatMessageSpriteSheet_7: -1417420654
+      ChatMessageSpriteSheet_8: 41358056
+      ChatMessageSpriteSheet_9: 348949252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

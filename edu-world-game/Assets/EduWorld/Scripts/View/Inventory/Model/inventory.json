@@ -1,0 +1,777 @@
+{
+  "categories": [
+    {
+      "name": "Car",
+      "details": {
+        "items": [
+          {
+            "id": 1,
+            "name": "Tesla Model S",
+            "price": 80000,
+            "description": "Luxury electric sedan with autopilot capability",
+            "topSpeed": 85,
+            "handling": 75,
+            "acceleration": 90,
+            "nitro": 60,
+            "modelPath": "Adonis"
+          },
+          {
+            "id": 2,
+            "name": "BMW M3",
+            "price": 70000,
+            "description": "High-performance luxury sports car",
+            "topSpeed": 80,
+            "handling": 85,
+            "acceleration": 80,
+            "nitro": 70,
+            "modelPath": "Ananke"
+          },
+          {
+            "id": 3,
+            "name": "Lamborghini Aventador",
+            "price": 400000,
+            "description": "Iconic Italian supercar with scissor doors",
+            "topSpeed": 95,
+            "handling": 90,
+            "acceleration": 95,
+            "nitro": 85,
+            "modelPath": "Chimaera"
+          },
+          {
+            "id": 4,
+            "name": "Porsche 911",
+            "price": 120000,
+            "description": "Classic sports car with timeless design",
+            "topSpeed": 85,
+            "handling": 95,
+            "acceleration": 85,
+            "nitro": 75,
+            "modelPath": "Cursa"
+          },
+          {
+            "id": 5,
+            "name": "Audi R8",
+            "price": 170000,
+            "description": "Luxury supercar with V10 engine",
+            "topSpeed": 90,
+            "handling": 85,
+            "acceleration": 85,
+            "nitro": 80,
+            "modelPath": "Deadline"
+          },
+          {
+            "id": 6,
+            "name": "Ferrari F8",
+            "price": 280000,
+            "description": "High-performance Italian sports car",
+            "topSpeed": 95,
+            "handling": 90,
+            "acceleration": 90,
+            "nitro": 85,
+            "modelPath": "Deimos"
+          },
+          {
+            "id": 7,
+            "name": "Ford Mustang",
+            "price": 55000,
+            "description": "American muscle car with iconic design",
+            "topSpeed": 75,
+            "handling": 70,
+            "acceleration": 80,
+            "nitro": 75,
+            "modelPath": "Dike"
+          },
+          {
+            "id": 8,
+            "name": "Chevrolet Camaro",
+            "price": 50000,
+            "description": "Stylish and powerful muscle car",
+            "topSpeed": 75,
+            "handling": 70,
+            "acceleration": 75,
+            "nitro": 75,
+            "modelPath": "Frostbite"
+          },
+          {
+            "id": 9,
+            "name": "Dodge Challenger",
+            "price": 60000,
+            "description": "Classic American muscle car",
+            "topSpeed": 75,
+            "handling": 65,
+            "acceleration": 80,
+            "nitro": 80,
+            "modelPath": "Haumea"
+          },
+          {
+            "id": 10,
+            "name": "Mercedes AMG GT",
+            "price": 150000,
+            "description": "Luxury sports car with advanced features",
+            "topSpeed": 85,
+            "handling": 85,
+            "acceleration": 85,
+            "nitro": 75,
+            "modelPath": "Heliades"
+          },
+          {
+            "id": 11,
+            "name": "Nissan GTR",
+            "price": 110000,
+            "description": "Japanese supercar with twin-turbo engine",
+            "topSpeed": 85,
+            "handling": 90,
+            "acceleration": 90,
+            "nitro": 80,
+            "modelPath": "Hemera"
+          },
+          {
+            "id": 12,
+            "name": "Honda NSX",
+            "price": 160000,
+            "description": "Hybrid supercar with precision engineering",
+            "topSpeed": 85,
+            "handling": 90,
+            "acceleration": 85,
+            "nitro": 75,
+            "modelPath": "Kratos"
+          },
+          {
+            "id": 13,
+            "name": "Aston Martin DB11",
+            "price": 200000,
+            "description": "Luxury grand tourer with V12 engine",
+            "topSpeed": 90,
+            "handling": 85,
+            "acceleration": 85,
+            "nitro": 75,
+            "modelPath": "Lelantos"
+          },
+          {
+            "id": 14,
+            "name": "McLaren 720S",
+            "price": 300000,
+            "description": "High-performance British supercar",
+            "topSpeed": 95,
+            "handling": 90,
+            "acceleration": 95,
+            "nitro": 85,
+            "modelPath": "Lyssa"
+          },
+          {
+            "id": 15,
+            "name": "Bugatti Chiron",
+            "price": 3000000,
+            "description": "Ultimate hypercar with unmatched speed",
+            "topSpeed": 100,
+            "handling": 90,
+            "acceleration": 100,
+            "nitro": 90,
+            "modelPath": "Mahsati"
+          },
+          {
+            "id": 16,
+            "name": "Koenigsegg Jesko",
+            "price": 3000000,
+            "description": "Swedish hypercar with cutting-edge technology",
+            "topSpeed": 100,
+            "handling": 95,
+            "acceleration": 100,
+            "nitro": 90,
+            "modelPath": "Markab"
+          },
+          {
+            "id": 17,
+            "name": "Pagani Huayra",
+            "price": 2500000,
+            "description": "Exquisite Italian hypercar with unique design",
+            "topSpeed": 95,
+            "handling": 95,
+            "acceleration": 95,
+            "nitro": 85,
+            "modelPath": "Ophion"
+          },
+          {
+            "id": 18,
+            "name": "Lexus LC 500",
+            "price": 95000,
+            "description": "Luxury coupe with refined performance",
+            "topSpeed": 80,
+            "handling": 85,
+            "acceleration": 80,
+            "nitro": 70,
+            "modelPath": "Orion"
+          },
+          {
+            "id": 19,
+            "name": "Subaru WRX STI",
+            "price": 40000,
+            "description": "Rally-inspired sports sedan",
+            "topSpeed": 75,
+            "handling": 85,
+            "acceleration": 80,
+            "nitro": 75,
+            "modelPath": "Phobos"
+          },
+          {
+            "id": 20,
+            "name": "Mazda RX-7",
+            "price": 35000,
+            "description": "Classic Japanese sports car with rotary engine",
+            "topSpeed": 70,
+            "handling": 80,
+            "acceleration": 75,
+            "nitro": 70,
+            "modelPath": "Polarus"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Outfit",
+      "details": {
+        "subcategories": [
+          {
+            "name": "Hairstyle",
+            "items": [
+              {
+                "id": 1,
+                "name": "Short Bob",
+                "price": 50,
+                "description": "Classic short haircut"
+              },
+              {
+                "id": 2,
+                "name": "Long Straight",
+                "price": 70,
+                "description": "Elegant long straight hair"
+              },
+              {
+                "id": 3,
+                "name": "Curly Style",
+                "price": 80,
+                "description": "Natural curly hairstyle"
+              },
+              {
+                "id": 4,
+                "name": "Pixie Cut",
+                "price": 45,
+                "description": "Short and modern haircut"
+              },
+              {
+                "id": 5,
+                "name": "Messy Bun",
+                "price": 40,
+                "description": "Casual updo hairstyle"
+              }
+            ]
+          },
+          {
+            "name": "Top",
+            "items": [
+              {
+                "id": 1,
+                "name": "Casual T-Shirt",
+                "price": 25,
+                "description": "Comfortable cotton t-shirt for everyday wear"
+              },
+              {
+                "id": 2,
+                "name": "Formal Suit",
+                "price": 500,
+                "description": "Classic black business suit for formal occasions"
+              },
+              {
+                "id": 3,
+                "name": "Hoodie",
+                "price": 50,
+                "description": "Comfortable and warm hoodie"
+              },
+              {
+                "id": 4,
+                "name": "Silk Shirt",
+                "price": 100,
+                "description": "Elegant silk shirt for special occasions"
+              },
+              {
+                "id": 5,
+                "name": "Sweater",
+                "price": 70,
+                "description": "Cozy knitted sweater for chilly days"
+              }
+            ]
+          },
+          {
+            "name": "Bottom",
+            "items": [
+              {
+                "id": 1,
+                "name": "Denim Jeans",
+                "price": 60,
+                "description": "Classic blue jeans for casual wear"
+              },
+              {
+                "id": 2,
+                "name": "Summer Shorts",
+                "price": 40,
+                "description": "Lightweight shorts for hot weather"
+              },
+              {
+                "id": 3,
+                "name": "Cargo Pants",
+                "price": 60,
+                "description": "Durable pants with multiple pockets"
+              },
+              {
+                "id": 4,
+                "name": "Ripped Jeans",
+                "price": 65,
+                "description": "Trendy jeans with distressed look"
+              },
+              {
+                "id": 5,
+                "name": "Skirt",
+                "price": 45,
+                "description": "Stylish and comfortable skirt"
+              }
+            ]
+          },
+          {
+            "name": "Shoes",
+            "items": [
+              {
+                "id": 1,
+                "name": "Sneakers",
+                "price": 80,
+                "description": "Comfortable athletic shoes"
+              },
+              {
+                "id": 2,
+                "name": "Formal Shoes",
+                "price": 120,
+                "description": "Classic leather dress shoes"
+              },
+              {
+                "id": 3,
+                "name": "Sandals",
+                "price": 40,
+                "description": "Casual summer footwear"
+              },
+              {
+                "id": 4,
+                "name": "Boots",
+                "price": 100,
+                "description": "Durable winter boots"
+              },
+              {
+                "id": 5,
+                "name": "Running Shoes",
+                "price": 90,
+                "description": "High-performance sports shoes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "Accessory",
+      "details": {
+        "items": [
+          {
+            "id": 1,
+            "name": "Red Hat",
+            "price": 30,
+            "description": "Stylish red baseball cap",
+            "quantity": 100
+          },
+          {
+            "id": 2,
+            "name": "Blue Sunglasses",
+            "price": 150,
+            "description": "UV protected fashionable sunglasses",
+            "quantity": 100
+          },
+          {
+            "id": 3,
+            "name": "Golden Necklace",
+            "price": 500,
+            "description": "Elegant gold necklace for special occasions",
+            "quantity": 100
+          },
+          {
+            "id": 4,
+            "name": "Silver Watch",
+            "price": 300,
+            "description": "Classic silver wristwatch",
+            "quantity": 100
+          },
+          {
+            "id": 5,
+            "name": "Diamond Ring",
+            "price": 2000,
+            "description": "Exquisite diamond ring for engagements",
+            "quantity": 100
+          },
+          {
+            "id": 6,
+            "name": "Leather Belt",
+            "price": 50,
+            "description": "Durable and stylish leather belt",
+            "quantity": 100
+          },
+          {
+            "id": 7,
+            "name": "Stylish Scarf",
+            "price": 40,
+            "description": "Fashionable scarf for all seasons",
+            "quantity": 100
+          },
+          {
+            "id": 8,
+            "name": "Leather Gloves",
+            "price": 70,
+            "description": "Warm and durable gloves for winter",
+            "quantity": 100
+          },
+          {
+            "id": 9,
+            "name": "Smartwatch",
+            "price": 250,
+            "description": "Advanced wearable device with multiple features",
+            "quantity": 100
+          },
+          {
+            "id": 10,
+            "name": "Ear Cuffs",
+            "price": 20,
+            "description": "Trendy ear accessories",
+            "quantity": 100
+          },
+          {
+            "id": 11,
+            "name": "Handbag",
+            "price": 100,
+            "description": "Stylish and spacious handbag",
+            "quantity": 100
+          },
+          {
+            "id": 12,
+            "name": "Tie Clip",
+            "price": 30,
+            "description": "Elegant accessory for formal wear",
+            "quantity": 100
+          },
+          {
+            "id": 13,
+            "name": "Bangle Bracelet",
+            "price": 60,
+            "description": "Beautiful bracelet for everyday wear",
+            "quantity": 100
+          },
+          {
+            "id": 14,
+            "name": "Choker Necklace",
+            "price": 80,
+            "description": "Trendy necklace for casual outfits",
+            "quantity": 100
+          },
+          {
+            "id": 15,
+            "name": "Keychain",
+            "price": 10,
+            "description": "Practical and decorative key accessory",
+            "quantity": 1
+          },
+          {
+            "id": 16,
+            "name": "Brooch",
+            "price": 40,
+            "description": "Elegant pin for formal attire",
+            "quantity": 100
+          },
+          {
+            "id": 17,
+            "name": "Ankle Bracelet",
+            "price": 30,
+            "description": "Stylish accessory for ankles",
+            "quantity": 100
+          },
+          {
+            "id": 18,
+            "name": "Wallet",
+            "price": 50,
+            "description": "Durable and compact wallet",
+            "quantity": 100
+          },
+          {
+            "id": 19,
+            "name": "Socks",
+            "price": 15,
+            "description": "Comfortable and warm socks",
+            "quantity": 100
+          },
+          {
+            "id": 20,
+            "name": "Suspenders",
+            "price": 25,
+            "description": "Classic accessory for trousers",
+            "quantity": 100
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pets",
+      "details": [
+          {
+            "id": 1,
+            "name": "Golden Retriever",
+            "price": 1500,
+            "description": "Friendly and intelligent family dog"
+          },
+          {
+            "id": 2,
+            "name": "Siberian Husky",
+            "price": 1200,
+            "description": "Energetic snow dog with striking eyes"
+          },
+          {
+            "id": 3,
+            "name": "Persian Cat",
+            "price": 800,
+            "description": "Elegant and affectionate feline"
+          },
+          {
+            "id": 4,
+            "name": "Parrot",
+            "price": 500,
+            "description": "Colorful and talkative bird"
+          },
+          {
+            "id": 5,
+            "name": "Hamster",
+            "price": 20,
+            "description": "Small and playful pet"
+          },
+          {
+            "id": 6,
+            "name": "Rabbit",
+            "price": 50,
+            "description": "Cute and fluffy companion"
+          },
+          {
+            "id": 7,
+            "name": "Turtle",
+            "price": 100,
+            "description": "Slow-moving and peaceful pet"
+          },
+          {
+            "id": 8,
+            "name": "Goldfish",
+            "price": 10,
+            "description": "Popular and low-maintenance aquarium fish"
+          },
+          {
+            "id": 9,
+            "name": "Chow Chow",
+            "price": 2000,
+            "description": "Fluffy and loyal dog breed"
+          },
+          {
+            "id": 10,
+            "name": "British Shorthair",
+            "price": 1200,
+            "description": "Calm and friendly cat breed"
+          },
+          {
+            "id": 11,
+            "name": "Dachshund",
+            "price": 800,
+            "description": "Small and playful dog breed"
+          },
+          {
+            "id": 12,
+            "name": "Pomeranian",
+            "price": 1000,
+            "description": "Tiny and fluffy dog breed"
+          },
+          {
+            "id": 13,
+            "name": "Beagle",
+            "price": 700,
+            "description": "Friendly and curious dog breed"
+          },
+          {
+            "id": 14,
+            "name": "Bengal Cat",
+            "price": 1500,
+            "description": "Exotic and energetic cat breed"
+          },
+          {
+            "id": 15,
+            "name": "Cockatoo",
+            "price": 2000,
+            "description": "Intelligent and social bird"
+          },
+          {
+            "id": 16,
+            "name": "Chihuahua",
+            "price": 500,
+            "description": "Tiny and lively dog breed"
+          },
+          {
+            "id": 17,
+            "name": "Koi Fish",
+            "price": 50,
+            "description": "Beautiful and colorful pond fish"
+          },
+          {
+            "id": 18,
+            "name": "Sphynx Cat",
+            "price": 1200,
+            "description": "Hairless and affectionate cat breed"
+          },
+          {
+            "id": 19,
+            "name": "Maine Coon",
+            "price": 1500,
+            "description": "Large and friendly cat breed"
+          },
+          {
+            "id": 20,
+            "name": "Shiba Inu",
+            "price": 1000,
+            "description": "Independent and spirited dog breed"
+          }
+        ]
+    },
+    {
+      "name": "Furniture",
+      "details": {
+        "items": [
+          {
+            "id": 1,
+            "name": "Modern Sofa",
+            "price": 1200,
+            "description": "Contemporary design 3-seater sofa"
+          },
+          {
+            "id": 2,
+            "name": "Dining Table",
+            "price": 800,
+            "description": "Elegant wooden dining table for 6"
+          },
+          {
+            "id": 3,
+            "name": "Queen Bed",
+            "price": 1500,
+            "description": "Comfortable and spacious bed"
+          },
+          {
+            "id": 4,
+            "name": "Office Chair",
+            "price": 200,
+            "description": "Ergonomic chair for workspaces"
+          },
+          {
+            "id": 5,
+            "name": "Bookshelf",
+            "price": 300,
+            "description": "Stylish and functional storage for books"
+          },
+          {
+            "id": 6,
+            "name": "TV Stand",
+            "price": 400,
+            "description": "Modern stand for televisions"
+          },
+          {
+            "id": 7,
+            "name": "Coffee Table",
+            "price": 250,
+            "description": "Compact and stylish table for living rooms"
+          },
+          {
+            "id": 8,
+            "name": "Wardrobe",
+            "price": 1000,
+            "description": "Spacious storage for clothes"
+          },
+          {
+            "id": 9,
+            "name": "Study Desk",
+            "price": 500,
+            "description": "Functional desk for studying or working"
+          },
+          {
+            "id": 10,
+            "name": "Gaming Chair",
+            "price": 300,
+            "description": "Comfortable chair for gaming sessions"
+          },
+          {
+            "id": 11,
+            "name": "Recliner",
+            "price": 800,
+            "description": "Relaxing chair with adjustable features"
+          },
+          {
+            "id": 12,
+            "name": "Vanity Mirror",
+            "price": 200,
+            "description": "Elegant mirror for dressing tables"
+          },
+          {
+            "id": 13,
+            "name": "Bar Stool",
+            "price": 150,
+            "description": "Stylish seating for bars or counters"
+          },
+          {
+            "id": 14,
+            "name": "Lounge Chair",
+            "price": 400,
+            "description": "Comfortable chair for relaxation"
+          },
+          {
+            "id": 15,
+            "name": "Hammock",
+            "price": 100,
+            "description": "Relaxing outdoor hanging bed"
+          },
+          {
+            "id": 16,
+            "name": "Rocking Chair",
+            "price": 250,
+            "description": "Classic chair with rocking motion"
+          },
+          {
+            "id": 17,
+            "name": "Dresser",
+            "price": 600,
+            "description": "Spacious storage for clothes and accessories"
+          },
+          {
+            "id": 18,
+            "name": "Side Table",
+            "price": 150,
+            "description": "Compact table for bedside or living room"
+          },
+          {
+            "id": 19,
+            "name": "Bean Bag",
+            "price": 100,
+            "description": "Comfortable and casual seating option"
+          },
+          {
+            "id": 20,
+            "name": "Chest of Drawers",
+            "price": 700,
+            "description": "Functional storage for various items"
+          }
+        ]
+      }
+    }
+  ]
+}

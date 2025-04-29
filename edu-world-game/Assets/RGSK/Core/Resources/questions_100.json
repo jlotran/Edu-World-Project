@@ -1,0 +1,1770 @@
+[
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Năm 1975 là năm kết thúc cuộc chiến ______ tại Việt Nam.",
+    "options": [
+      "Thế giới",
+      "lạnh",
+      "chống Mỹ",
+      "ở Lào"
+    ],
+    "answer": "chống Mỹ",
+    "hint": "",
+    "id": "q000",
+    "time_limit": 25
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Vị tướng nào chỉ huy quân đội nhân dân Việt Nam trong chiến dịch Điện Biên Phủ?",
+    "options": [
+      "Võ Nguyên Giáp",
+      "Nguyễn Chí Thanh",
+      "Hoàng Văn Thái",
+      "Lê Trọng Tấn"
+    ],
+    "answer": "Võ Nguyên Giáp",
+    "hint": "",
+    "id": "q001",
+    "time_limit": 30
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q002",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q003",
+    "time_limit": 30
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "HTML là một ngôn ngữ lập trình.",
+    "answer": true,
+    "hint": "Nó là ngôn ngữ đánh dấu chứ không phải lập trình.",
+    "id": "q004",
+    "time_limit": 35
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Chiến dịch Điện Biên Phủ diễn ra vào năm ______.",
+    "options": [
+      "1945",
+      "1954",
+      "1968",
+      "1975"
+    ],
+    "answer": "1954",
+    "hint": "Đây là chiến dịch kết thúc thắng lợi của quân dân Việt Nam với Pháp.",
+    "id": "q005",
+    "time_limit": 25
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Trong logic Boolean, phép toán AND trả về true chỉ khi cả hai toán hạng đều true.",
+    "answer": true,
+    "hint": "",
+    "id": "q006",
+    "time_limit": 35
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q007",
+    "time_limit": 35
+  },
+  {
+    "type": "true_false",
+    "category": "technology",
+    "level": "intern",
+    "question": "CPU là thành phần xử lý trung tâm của máy tính.",
+    "answer": true,
+    "hint": "CPU còn gọi là bộ vi xử lý.",
+    "id": "q008",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "general",
+    "level": "junior",
+    "question": "Sắp xếp các bước pha trà truyền thống Việt Nam:",
+    "options": [
+      "Đun nước",
+      "Tráng ấm",
+      "Pha trà",
+      "Rót ra chén"
+    ],
+    "answer": [0, 1, 2, 3],
+    "hint": "Theo trình tự truyền thống của người Việt.",
+    "id": "q057",
+    "time_limit": 30
+  }
+  ,
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Trong Python, hàm nào dùng để in ra màn hình?",
+    "options": [
+      "echo()",
+      "console()",
+      "print()",
+      "printf()"
+    ],
+    "answer": "print()",
+    "hint": "Hàm mặc định trong Python.",
+    "help_available": [
+      "50_50",
+      "hint"
+    ],
+    "id": "q010",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Trong đại số Boolean, phép NOT đảo ngược giá trị logic.",
+    "answer": true,
+    "hint": "NOT true = false, NOT false = true.",
+    "id": "q011",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q012",
+    "time_limit": 45
+  },
+  {
+    "type": "multiple_choice",
+    "category": "data",
+    "level": "junior",
+    "question": "Trong Python, kiểu dữ liệu nào dùng để lưu trữ nhiều giá trị có thứ tự?",
+    "options": ["list", "int", "bool", "str"],
+    "answer": "list",
+    "hint": "Được viết bằng dấu ngoặc vuông [].",
+    "help_available": ["50_50", "hint"],
+    "id": "q013",
+    "time_limit": 45
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Thuật ngữ 'debugging' trong lập trình có nghĩa là gì?",
+    "options": [
+      "Viết mã chương trình",
+      "Biên dịch chương trình",
+      "Tìm và sửa lỗi trong chương trình",
+      "Chạy chương trình"
+    ],
+    "answer": "Tìm và sửa lỗi trong chương trình",
+    "hint": "Giống như việc tìm kiếm 'bug' (lỗi) trong phần mềm.",
+    "help_available": [
+      "50_50",
+      "hint"
+    ],
+    "id": "q014",
+    "time_limit": 30
+  },
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Trong lập trình, biến toàn cục chỉ tồn tại trong hàm.",
+    "answer": false,
+    "hint": "Biến toàn cục tồn tại ở phạm vi toàn bộ chương trình.",
+    "id": "q015",
+    "time_limit": 15
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Bác Hồ sinh năm ______.",
+    "options": [
+      "1890",
+      "1900",
+      "1920",
+      "1945"
+    ],
+    "answer": "1890",
+    "hint": "Sinh năm Canh Dần.",
+    "id": "q016",
+    "time_limit": 25
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Mọi hàm trong lập trình đều phải trả về một giá trị.",
+    "answer": false,
+    "hint": "Có những hàm thực hiện hành động mà không cần trả về giá trị cụ thể (ví dụ: in ra màn hình).",
+    "id": "q017",
+    "time_limit": 35
+  },
+  {
+    "type": "true_false",
+    "category": "technology",
+    "level": "intern",
+    "question": "RAM là bộ nhớ dùng để lưu trữ dữ liệu lâu dài.",
+    "answer": false,
+    "hint": "RAM chỉ lưu dữ liệu tạm thời khi máy tính đang chạy.",
+    "id": "q018",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q019",
+    "time_limit": 15
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Trong logic, nếu A là đúng và B là sai thì A AND B là đúng.",
+    "answer": false,
+    "hint": "AND chỉ đúng khi cả hai đều đúng.",
+    "id": "q020",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q021",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q022",
+    "time_limit": 30
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "Nối thuật ngữ lập trình với định nghĩa tương ứng:",
+    "options": [
+      {
+        "left": "Biến (Variable)",
+        "right": "Vùng nhớ lưu trữ dữ liệu có thể thay đổi"
+      },
+      {
+        "left": "Hàm (Function)",
+        "right": "Khối mã lệnh thực hiện một tác vụ cụ thể"
+      },
+      {
+        "left": "Lớp (Class)",
+        "right": "Bản thiết kế cho việc tạo ra các đối tượng"
+      }
+    ],
+    "answer": [
+      "Vùng nhớ lưu trữ dữ liệu có thể thay đổi",
+      "Khối mã lệnh thực hiện một tác vụ cụ thể",
+      "Bản thiết kế cho việc tạo ra các đối tượng"
+    ],
+    "hint": "",
+    "id": "q023",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q024",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q025",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "history",
+    "level": "intern",
+    "question": "Việt Nam giành độc lập hoàn toàn vào năm 1945.",
+    "answer": false,
+    "hint": "1945 tuyên bố độc lập, nhưng đến 1975 mới hoàn toàn thống nhất.",
+    "id": "q026",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Trong Python, kiểu dữ liệu nào sau đây là một list?",
+    "options": [
+      "{}",
+      "()",
+      "[]",
+      "''"
+    ],
+    "answer": "[]",
+    "hint": "Được bao quanh bởi dấu ngoặc vuông.",
+    "help_available": [
+      "50_50",
+      "hint"
+    ],
+    "id": "q027",
+    "time_limit": 30
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q028",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "logic",
+    "level": "junior",
+    "question": "Toán tử nào trong Python dùng để kiểm tra bằng nhau?",
+    "options": ["=", "==", "!=", "<>"],
+    "answer": "==",
+    "hint": "Khác với gán giá trị (=).",
+    "help_available": ["50_50", "hint"],
+    "id": "q029",
+    "time_limit": 45
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q030",
+    "time_limit": 30
+  },
+  {
+    "type": "true_false",
+    "category": "technology",
+    "level": "intern",
+    "question": "Hệ điều hành Android dựa trên nhân Linux.",
+    "answer": true,
+    "hint": "Android là hệ điều hành mã nguồn mở.",
+    "id": "q031",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q032",
+    "time_limit": 25
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q033",
+    "time_limit": 30
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q034",
+    "time_limit": 45
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q035",
+    "time_limit": 30
+  },
+  {
+    "type": "multiple_choice",
+    "category": "data",
+    "level": "junior",
+    "question": "Trong Python, kiểu dữ liệu nào đại diện cho giá trị đúng hoặc sai?",
+    "options": ["int", "bool", "str", "float"],
+    "answer": "bool",
+    "hint": "Có hai giá trị: True và False.",
+    "help_available": ["50_50", "hint"],
+    "id": "q036",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Python là một ngôn ngữ lập trình bậc thấp.",
+    "answer": false,
+    "hint": "Python là ngôn ngữ bậc cao, dễ đọc, dễ học.",
+    "id": "q037",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q038",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Trong biểu đồ Venn, giao của hai tập là phần giao nhau.",
+    "answer": true,
+    "hint": "Ký hiệu là A ∩ B.",
+    "id": "q039",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Câu lệnh nào dùng để lặp qua từng phần tử trong một list?",
+    "options": ["if", "while", "for", "def"],
+    "answer": "for",
+    "hint": "Câu lệnh thường đi kèm: `for item in list:`.",
+    "help_available": ["50_50", "hint"],
+    "id": "q040",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "technology",
+    "level": "intern",
+    "question": "SSD thường nhanh hơn HDD trong việc truy xuất dữ liệu.",
+    "answer": true,
+    "hint": "SSD không có bộ phận cơ khí như HDD.",
+    "id": "q041",
+    "time_limit": 15
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Nước Việt Nam Dân chủ Cộng hòa được thành lập vào năm ______.",
+    "options": [
+      "1945",
+      "1954",
+      "1975",
+      "1930"
+    ],
+    "answer": "1945",
+    "hint": "Cùng thời điểm Bác Hồ đọc Tuyên ngôn độc lập.",
+    "id": "q042",
+    "time_limit": 25
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q043",
+    "time_limit": 45
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q044",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Câu lệnh nào được dùng để định nghĩa một hàm trong Python?",
+    "options": ["define", "func", "def", "function"],
+    "answer": "def",
+    "hint": "Câu lệnh mở đầu khai báo hàm.",
+    "help_available": ["50_50", "hint"],
+    "id": "q045",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q046",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "syntax",
+    "level": "junior",
+    "question": "Ký hiệu nào dùng để comment (chú thích) một dòng trong Python?",
+    "options": ["//", "#", "/* */", "<!-- -->"],
+    "answer": "#",
+    "hint": "Dấu này được dùng ở đầu dòng chú thích.",
+    "help_available": ["50_50", "hint"],
+    "id": "q047",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q048",
+    "time_limit": 15
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Đảng Cộng sản Việt Nam được thành lập vào năm ______.",
+    "options": [
+      "1930",
+      "1945",
+      "1954",
+      "1975"
+    ],
+    "answer": "1930",
+    "hint": "Do lãnh tụ Nguyễn Ái Quốc sáng lập.",
+    "id": "q049",
+    "time_limit": 25
+  },
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Trong JavaScript, từ khóa 'var' có phạm vi khối (block scope).",
+    "answer": false,
+    "hint": "'let' mới có block scope, 'var' có function scope.",
+    "id": "q050",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "logic",
+    "level": "junior",
+    "question": "Câu lệnh nào dùng để dừng vòng lặp ngay lập tức trong Python?",
+    "options": ["stop", "exit", "break", "continue"],
+    "answer": "break",
+    "hint": "Thoát khỏi vòng lặp ngay lập tức.",
+    "help_available": ["50_50", "hint"],
+    "id": "q051",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "multiple_choice",
+    "category": "data",
+    "level": "junior",
+    "question": "Hàm nào trong Python trả về độ dài của một list?",
+    "options": ["count()", "length()", "size()", "len()"],
+    "answer": "len()",
+    "hint": "len() trả về số lượng phần tử.",
+    "help_available": ["50_50", "hint"],
+    "id": "q052",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các giai đoạn phát triển phần mềm theo mô hình Agile:",
+    "options": [
+      "Lập kế hoạch Sprint",
+      "Thực hiện Sprint",
+      "Đánh giá Sprint",
+      "Hồi tưởng Sprint"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "Các giai đoạn lặp đi lặp lại trong mỗi Sprint.",
+    "id": "q053",
+    "time_limit": 40
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Hồ Chí Minh đọc Tuyên ngôn độc lập tại quảng trường ______.",
+    "options": [
+      "Ba Đình",
+      "Cách Mạng Tháng Tám",
+      "Nhà hát Lớn",
+      "Đồng Khởi"
+    ],
+    "answer": "Ba Đình",
+    "hint": "",
+    "id": "q054",
+    "time_limit": 20
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Trong JavaScript, từ khóa nào dùng để khai báo biến?",
+    "options": [
+      "variable",
+      "int",
+      "string",
+      "let"
+    ],
+    "answer": "let",
+    "hint": "Có 3 cách khai báo biến: var, let, const.",
+    "help_available": [
+      "50_50",
+      "hint"
+    ],
+    "id": "q055",
+    "time_limit": 25
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Chiến dịch Hồ Chí Minh lịch sử diễn ra vào tháng ______ năm 1975.",
+    "options": [
+      "1",
+      "4",
+      "5",
+      "12"
+    ],
+    "answer": "4",
+    "hint": "Đây là tháng kết thúc cuộc kháng chiến chống Mỹ.",
+    "id": "q056",
+    "time_limit": 25
+  },
+  {
+    "type": "ordering",
+    "category": "general",
+    "level": "junior",
+    "question": "Sắp xếp các bước pha trà truyền thống Việt Nam:",
+    "options": [
+      "Đun nước",
+      "Tráng ấm",
+      "Pha trà",
+      "Rót ra chén"
+    ],
+    "answer": [0, 1, 2, 3],
+    "hint": "Theo trình tự truyền thống của người Việt.",
+    "id": "q057",
+    "time_limit": 30
+  }
+  ,
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Trong Python, indent (thụt đầu dòng) là bắt buộc để xác định khối lệnh.",
+    "answer": true,
+    "hint": "Không giống C/C++, Python dùng khoảng trắng thay vì dấu ngoặc nhọn.",
+    "id": "q058",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "history",
+    "level": "mid",
+    "question": "Sắp xếp các sự kiện lịch sử Việt Nam theo thời gian:",
+    "options": [
+      "Khởi nghĩa Lam Sơn",
+      "Chiến thắng Điện Biên Phủ",
+      "Cách mạng Tháng Tám",
+      "Giải phóng miền Nam"
+    ],
+    "answer": [0, 2, 1, 3],
+    "hint": "Từ thế kỷ 15 đến thế kỷ 20.",
+    "id": "q059",
+    "time_limit": 30
+  }
+  ,
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Toán tử nào trong Python dùng để nối chuỗi?",
+    "options": ["+", "*", "&", "%"],
+    "answer": "+",
+    "hint": "Chuỗi 'a' + 'b' → 'ab'.",
+    "help_available": ["50_50", "hint"],
+    "id": "q060",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Giá trị boolean chỉ có hai giá trị là true hoặc false.",
+    "answer": true,
+    "hint": "Đây là logic nhị phân.",
+    "id": "q061",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "science",
+    "level": "intern",
+    "question": "Sắp xếp các giai đoạn của vòng tuần hoàn nước:",
+    "options": [
+      "Bay hơi",
+      "Ngưng tụ",
+      "Mưa",
+      "Thấm xuống đất"
+    ],
+    "answer": [0, 1, 2, 3],
+    "hint": "",
+    "id": "q062",
+    "time_limit": 30
+  }
+  ,
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q063",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "network",
+    "level": "intern",
+    "question": "DNS dùng để chuyển tên miền thành địa chỉ IP.",
+    "answer": true,
+    "hint": "VD: google.com → 142.250.72.14.",
+    "id": "q064",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Hàm nào dùng để chuyển chữ thường thành chữ hoa trong Python?",
+    "options": ["uppercase()", "capitalize()", "upper()", "toUpperCase()"],
+    "answer": "upper()",
+    "hint": "string.upper() là hàm chuẩn.",
+    "help_available": ["50_50", "hint"],
+    "id": "q065",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q066",
+    "time_limit": 45
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q067",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Hàm nào dùng để lấy giá trị nhập từ người dùng trong Python?",
+    "options": ["scan()", "get()", "input()", "read()"],
+    "answer": "input()",
+    "hint": "Câu lệnh thường là: `input('Nhập gì đó: ')`.",
+    "help_available": ["50_50", "hint"],
+    "id": "q068",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Kết quả của biểu thức 3 ** 2 trong Python là gì?",
+    "options": ["6", "9", "8", "5"],
+    "answer": "9",
+    "hint": "Toán tử `**` là lũy thừa.",
+    "help_available": ["50_50", "hint"],
+    "id": "q069",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Bác Hồ ra đi tìm đường cứu nước vào năm ______.",
+    "options": [
+      "1911",
+      "1930",
+      "1945",
+      "1954"
+    ],
+    "answer": "1911",
+    "hint": "Từ bến cảng Nhà Rồng.",
+    "id": "q070",
+    "time_limit": 25
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q071",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Câu lệnh 'if' dùng để tạo vòng lặp trong lập trình.",
+    "answer": false,
+    "hint": "'if' dùng để rẽ nhánh, không phải lặp.",
+    "id": "q072",
+    "time_limit": 15
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Trong Python, từ khóa nào dùng để xử lý ngoại lệ?",
+    "options": ["if", "catch", "try", "test"],
+    "answer": "try",
+    "hint": "Cặp từ khóa thường là: try - except.",
+    "help_available": ["50_50", "hint"],
+    "id": "q073",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q074",
+    "time_limit": 45
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q075",
+    "time_limit": 35
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q076",
+    "time_limit": 25
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Hàm nào dùng để kiểm tra độ dài chuỗi trong Python?",
+    "options": ["size()", "length()", "len()", "count()"],
+    "answer": "len()",
+    "hint": "Dùng được cho list và chuỗi.",
+    "help_available": ["50_50", "hint"],
+    "id": "q077",
+    "time_limit": 45
+  }
+  ,
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q078",
+    "time_limit": 30
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Một tập hợp có thể là tập rỗng.",
+    "answer": true,
+    "hint": "Tập rỗng không chứa phần tử nào.",
+    "id": "q079",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q080",
+    "time_limit": 30
+  },
+  {
+    "type": "true_false",
+    "category": "technology",
+    "level": "intern",
+    "question": "Bluetooth và Wi-Fi là hai công nghệ truyền dữ liệu không dây.",
+    "answer": true,
+    "hint": "Cả hai đều phổ biến trong thiết bị di động.",
+    "id": "q081",
+    "time_limit": 15
+  },
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Mật khẩu mạnh thường bao gồm chữ hoa, chữ thường, số và ký tự đặc biệt.",
+    "answer": true,
+    "hint": "Mật khẩu mạnh giúp tăng tính bảo mật.",
+    "id": "q082",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q083",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q084",
+    "time_limit": 45
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "Nối các thuật ngữ mạng máy tính với định nghĩa:",
+    "options": [
+      {
+        "left": "IP Address",
+        "right": "Địa chỉ logic để xác định thiết bị trên mạng"
+      },
+      {
+        "left": "DNS",
+        "right": "Hệ thống phân giải tên miền thành địa chỉ IP"
+      },
+      {
+        "left": "Firewall",
+        "right": "Hệ thống bảo vệ mạng khỏi truy cập trái phép"
+      }
+    ],
+    "answer": [
+      "Địa chỉ logic để xác định thiết bị trên mạng",
+      "Hệ thống phân giải tên miền thành địa chỉ IP",
+      "Hệ thống bảo vệ mạng khỏi truy cập trái phép"
+    ],
+    "hint": "",
+    "id": "q085",
+    "time_limit": 35
+  },
+  {
+    "type": "true_false",
+    "category": "logic",
+    "level": "intern",
+    "question": "Trong đại số Boolean, phép toán OR trả về false chỉ khi cả hai toán hạng đều false.",
+    "answer": true,
+    "hint": "",
+    "id": "q086",
+    "time_limit": 30
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q087",
+    "time_limit": 30
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Chiến dịch Tết Mậu Thân diễn ra vào năm ______.",
+    "options": [
+      "1968",
+      "1975",
+      "1954",
+      "1945"
+    ],
+    "answer": "1968",
+    "hint": "Một chiến dịch lớn của quân Giải phóng miền Nam.",
+    "id": "q088",
+    "time_limit": 25
+  }
+  ,
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q089",
+    "time_limit": 45
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q090",
+    "time_limit": 15
+  },
+  {
+    "type": "matching",
+    "category": "vocabulary",
+    "level": "mid",
+    "question": "",
+    "options": [
+      {
+        "left": "HTML",
+        "right": "Ngôn ngữ đánh dấu"
+      },
+      {
+        "left": "CSS",
+        "right": "Tạo kiểu giao diện"
+      },
+      {
+        "left": "JS",
+        "right": "Tương tác động"
+      }
+    ],
+    "answer": [
+      "Ngôn ngữ đánh dấu",
+      "Tương tác động",
+      "Tạo kiểu giao diện"
+    ],
+    "hint": "",
+    "id": "q091",
+    "time_limit": 25
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Cuộc Tổng tiến công và nổi dậy Xuân Mậu Thân xảy ra vào dịp ______.",
+    "options": [
+      "Tết Nguyên Đán",
+      "Quốc khánh",
+      "Giáng sinh",
+      "Trung thu"
+    ],
+    "answer": "Tết Nguyên Đán",
+    "hint": "Đây là thời điểm mà quân địch ít đề phòng.",
+    "id": "q092",
+    "time_limit": 25
+  },
+  {
+    "type": "fill_blank",
+    "category": "history",
+    "level": "fresher",
+    "question": "Hiệp định Paris được ký kết vào năm ______ nhằm chấm dứt chiến tranh Việt Nam.",
+    "options": [
+      "1973",
+      "1975",
+      "1968",
+      "1954"
+    ],
+    "answer": "1973",
+    "hint": "Hiệp định đánh dấu thắng lợi trên mặt trận ngoại giao.",
+    "id": "q093",
+    "time_limit": 25
+  },
+  {
+    "type": "multiple_choice",
+    "category": "network",
+    "level": "junior",
+    "question": "Giao thức nào sau đây thường được sử dụng để truy cập trang web?",
+    "options": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "SSH"
+    ],
+    "answer": "HTTP",
+    "hint": "Giao thức bắt đầu các URL như http://",
+    "help_available": [
+      "50_50",
+      "hint"
+    ],
+    "id": "q094",
+    "time_limit": 45
+  },
+  {
+    "type": "true_false",
+    "category": "programming",
+    "level": "intern",
+    "question": "Ngôn ngữ C được phát triển sau Python.",
+    "answer": false,
+    "hint": "C ra đời năm 1972, Python là 1991.",
+    "id": "q095",
+    "time_limit": 15
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các giai đoạn của quy trình CI/CD:",
+    "options": [
+      "Tích hợp (Integration)",
+      "Phân phối (Delivery)",
+      "Kiểm thử (Testing)",
+      "Triển khai (Deployment)"
+    ],
+    "answer": [
+      0,
+      2,
+      1,
+      3
+    ],
+    "hint": "CI/CD giúp tự động hóa quá trình phát triển và triển khai phần mềm.",
+    "id": "q096",
+    "time_limit": 40
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q097",
+    "time_limit": 35
+  },
+  {
+    "type": "ordering",
+    "category": "process",
+    "level": "senior",
+    "question": "Sắp xếp các bước viết một chương trình:",
+    "options": [
+      "Phân tích yêu cầu",
+      "Viết mã nguồn",
+      "Kiểm thử",
+      "Triển khai"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "hint": "",
+    "id": "q098",
+    "time_limit": 30
+  },
+  {
+    "type": "multiple_choice",
+    "category": "programming",
+    "level": "junior",
+    "question": "Phép chia lấy dư trong Python dùng toán tử nào?",
+    "options": ["%", "//", "**", "/"],
+    "answer": "%",
+    "hint": "Kết quả là phần dư trong phép chia.",
+    "help_available": ["50_50", "hint"],
+    "id": "q099",
+    "time_limit": 45
+  }  
+]

@@ -1,0 +1,10 @@
+{
+  "id": "q002",
+  "type": "true_false",
+  "level": "intern",
+  "category": "logic",
+  "statement": "HTML là một ngôn ngữ lập trình.",
+  "answer": false,
+  "time_limit": 15,
+  "hint": "Nó là ngôn ngữ đánh dấu chứ không phải lập trình."
+}

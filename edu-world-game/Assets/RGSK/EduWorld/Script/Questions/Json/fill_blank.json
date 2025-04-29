@@ -1,0 +1,15 @@
+{
+  "id": "q004",
+  "type": "fill_blank",
+  "level": "fresher",
+  "category": "history",
+  "text": "Năm 1975 là năm kết thúc cuộc chiến ______ tại Việt Nam.",
+  "blanks": [
+    {
+      "index": 0,
+      "options": ["Thế giới", "lạnh", "chống Mỹ", "ở Lào"],
+      "answer": "chống Mỹ"
+    }
+  ],
+  "time_limit": 30
+}

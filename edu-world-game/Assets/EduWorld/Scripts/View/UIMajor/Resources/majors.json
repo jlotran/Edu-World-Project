@@ -1,0 +1,37 @@
+[
+  {
+    "major": "IT",
+    "categories": [
+      "Java", "C#", "Python", "JavaScript", "Go", "Kotlin", "Rust", "SQL", "Swift", "TypeScript",       "UI/UX", "Graphic", "3D Modeling", "Motion Design", "Typography", "Branding",
+      "Illustration", "Web Design", "Game UI", "Product Design"
+    ]
+  },
+  {
+    "major": "Design",
+    "categories": [
+      "UI/UX", "Graphic", "3D Modeling", "Motion Design", "Typography", "Branding",
+      "Illustration", "Web Design", "Game UI", "Product Design"
+    ]
+  },
+  {
+    "major": "Marketing",
+    "categories": [
+      "SEO", "Content", "Social Media", "Email Marketing", "Analytics", "Copywriting",
+      "Performance Ads", "Brand Strategy", "Affiliate", "Influencer Marketing"
+    ]
+  },
+  {
+    "major": "Business",
+    "categories": [
+      "Management", "Finance", "Accounting", "Entrepreneurship", "Sales",
+      "Operations", "Strategy", "Logistics", "Leadership", "Project Management"
+    ]
+  },
+  {
+    "major": "Engineering",
+    "categories": [
+      "Mechanical", "Electrical", "Civil", "Chemical", "Software", "Aerospace",
+      "Environmental", "Industrial", "Mechatronics", "Automotive"
+    ]
+  }
+]

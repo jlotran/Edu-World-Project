@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: db13718e23b1cbc40915010f4c7ce9b2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 579
+        width: 600
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 306.5, y: -458}
+        - {x: 306.5, y: 478}
+        - {x: -289.5, y: 478}
+        - {x: -306.5, y: 457}
+        - {x: -306.5, y: -478}
+        - {x: 273.5, y: -478}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5fa54786106a42bb1f2895d6cccb3
+      internalID: -1816966452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 294
+        width: 482
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 244, y: -28.5}
+        - {x: 244, y: 43.5}
+        - {x: 242, y: 44.5}
+        - {x: -229, y: 44.5}
+        - {x: -244, y: 34.5}
+        - {x: -244, y: -44.5}
+        - {x: 220, y: -44.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392840f435b418d44aafc6f2927e922c
+      internalID: 590669081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 371
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 66.5, y: 54.5}
+        - {x: -66.5, y: 54.5}
+        - {x: -66.5, y: -54.5}
+        - {x: 66.5, y: -54.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9208fbe2b22bb47b8e2e4440ea3015
+      internalID: 1981799871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 423
+        width: 482
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 244, y: 43.5}
+        - {x: -223, y: 45.5}
+        - {x: -244, y: 32.5}
+        - {x: -244, y: -45.5}
+        - {x: 244, y: -45.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e26b90a288d343ba3c80a5cf497f6
+      internalID: -763938819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 219
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 65, y: -39.5}
+        - {x: 65, y: 53.5}
+        - {x: -54, y: 53.5}
+        - {x: -65, y: 44.5}
+        - {x: -65, y: -53.5}
+        - {x: 54, y: -53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e57720ce63af47852dc9b28309d97
+      internalID: -85059383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 220
+        width: 487
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 243.5, y: -5}
+        - {x: 243.5, y: 15}
+        - {x: -232.5, y: 15}
+        - {x: -243.5, y: 4}
+        - {x: -243.5, y: -15}
+        - {x: 233.5, y: -15}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8caf0eea8986d94396df903d966ee7a
+      internalID: -1341175053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 158
+        width: 255
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 0, z: 21, w: 0}
+      customData: 
+      outline:
+      - - {x: 129.5, y: 15.5}
+        - {x: -119.5, y: 14.5}
+        - {x: -129.5, y: 2.5}
+        - {x: -129.5, y: -15.5}
+        - {x: 129.5, y: -15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5f7ebf2d1d5747aec2ef0752997e1
+      internalID: 1202088001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 138
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23ec92c654335478ea1f59606aca08
+      internalID: -36819031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 69
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd398da9a92383e4ab36c1a82321ea6a
+      internalID: 2012354701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 71
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1471cb8e5eccdb148af5798e13b3c619
+      internalID: -282554095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 138
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb036ce8613d98d4b858bb1ac2dabf17
+      internalID: 397622990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 707
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 50.5, y: -26}
+        - {x: 50.5, y: 31}
+        - {x: -50.5, y: 31}
+        - {x: -50.5, y: -31}
+        - {x: 48.5, y: -31}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f77308adcd0846b50e1d8668b26fd
+      internalID: -356453621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 584
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4247a543f4dbba45b5e90378af1a12b
+      internalID: 458535017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 446
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ea79e8bfb5f6e429c411ef602f411b
+      internalID: 2041115229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 483
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896eb4377db52c54fb88c103028a4418
+      internalID: -819654708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SelectCarSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 138
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf98b623fb55314da5f87d94d708294
+      internalID: 1596639917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SelectCarSpriteSheet_0: -1816966452
+      SelectCarSpriteSheet_1: 590669081
+      SelectCarSpriteSheet_10: 397622990
+      SelectCarSpriteSheet_11: -356453621
+      SelectCarSpriteSheet_12: 458535017
+      SelectCarSpriteSheet_13: 2041115229
+      SelectCarSpriteSheet_14: -819654708
+      SelectCarSpriteSheet_15: 1596639917
+      SelectCarSpriteSheet_2: 1981799871
+      SelectCarSpriteSheet_3: -763938819
+      SelectCarSpriteSheet_4: -85059383
+      SelectCarSpriteSheet_5: -1341175053
+      SelectCarSpriteSheet_6: 1202088001
+      SelectCarSpriteSheet_7: -36819031
+      SelectCarSpriteSheet_8: 2012354701
+      SelectCarSpriteSheet_9: -282554095
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

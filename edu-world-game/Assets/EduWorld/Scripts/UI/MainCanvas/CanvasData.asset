@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8268c8a322f7949ba469151cc0ceea, type: 3}
+  m_Name: CanvasData
+  m_EditorClassIdentifier: 
+  defaultUI:
+  - {fileID: 1671190050226146209, guid: 1317c8faef80e114bb88e1419c19650e, type: 3}
+  uiDataByScenes:
+  - sceneName: Login
+    uiPrefabs:
+    - {fileID: 5230688031802812879, guid: 58af915b77ebe974a9302ca4e6e4e4e0, type: 3}
+  - sceneName: CharacterCustomization
+    uiPrefabs:
+    - {fileID: 5125061896390231710, guid: e1bb2a08bcb556549a378a02c2749946, type: 3}

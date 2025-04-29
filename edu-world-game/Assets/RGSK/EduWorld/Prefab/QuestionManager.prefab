@@ -1,0 +1,1404 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6168121361516013941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1270281046798893425}
+  - component: {fileID: 2760991522580493335}
+  m_Layer: 0
+  m_Name: QuestionManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1270281046798893425
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6168121361516013941}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -182.7, y: 0.95000005, z: -39.98}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2760991522580493335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6168121361516013941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c351196c56a470a499bb1c75b55b077e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AlowQuestionType: 000000000200000004000000
+  FillBlankQuestions:
+  - id: q000
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 25
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q001
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 30
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q005
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 35
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q016
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 30
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q042
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 15
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q049
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 15
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q054
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 15
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q056
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 25
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q070
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 30
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q088
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 30
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q092
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 45
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  - id: q093
+    category: 0
+    level: 1
+    type: 0
+    hint: 
+    time_limit: 25
+    question: "N\u0103m 1975 l\xE0 n\u0103m k\u1EBFt th\xFAc cu\u1ED9c chi\u1EBFn
+      ______ t\u1EA1i Vi\u1EC7t Nam."
+    options:
+    - "Th\u1EBF gi\u1EDBi"
+    - "l\u1EA1nh"
+    - "ch\u1ED1ng M\u1EF9"
+    - "\u1EDF L\xE0o"
+    answer: "ch\u1ED1ng M\u1EF9"
+  MatchingQuestions:
+  - id: q003
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q007
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 35
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q019
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 15
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q022
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q023
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 15
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q025
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 45
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q030
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q032
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 25
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q033
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q035
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q038
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 45
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q046
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 15
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q067
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 15
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q074
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 45
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q085
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q087
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 30
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q089
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 45
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  - id: q091
+    category: 1
+    level: 3
+    type: 1
+    hint: 
+    time_limit: 25
+    options:
+    - left: HTML
+      right: "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - left: CSS
+      right: "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+    - left: JS
+      right: "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    answer:
+    - "Ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u"
+    - "T\u01B0\u01A1ng t\xE1c \u0111\u1ED9ng"
+    - "T\u1EA1o ki\u1EC3u giao di\u1EC7n"
+  MultipleChoiceQuestions:
+  - id: q010
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 45
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q013
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 30
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q014
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 30
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q027
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 30
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q029
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 35
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q036
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 35
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q040
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 45
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q045
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 25
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q047
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 25
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q051
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 30
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q052
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 45
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q055
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 15
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q060
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 35
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q065
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 30
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q068
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 25
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q069
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 35
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q073
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 45
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q077
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 45
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q094
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 15
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  - id: q099
+    category: 2
+    level: 2
+    type: 2
+    hint: "H\xE0m m\u1EB7c \u0111\u1ECBnh trong Python."
+    time_limit: 15
+    question: "Trong Python, h\xE0m n\xE0o d\xF9ng \u0111\u1EC3 in ra m\xE0n h\xECnh?"
+    options:
+    - echo()
+    - console()
+    - print()
+    - printf()
+    answer: print()
+    help_available:
+    - 50_50
+    - hint
+  OrderingQuestions:
+  - id: q002
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q009
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q012
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q021
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q024
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q028
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q034
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q043
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q044
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q048
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q053
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 30
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q057
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 25
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q059
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 35
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q062
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 25
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q063
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q066
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q071
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q075
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 35
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q076
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 25
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q078
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 30
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q080
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 30
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q083
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q084
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 45
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q090
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 15
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q096
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 35
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q097
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 35
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  - id: q098
+    category: 3
+    level: 4
+    type: 3
+    hint: 
+    time_limit: 30
+    question: 
+    options:
+    - "Ph\xE2n t\xEDch y\xEAu c\u1EA7u"
+    - "Vi\u1EBFt m\xE3 ngu\u1ED3n"
+    - "Ki\u1EC3m th\u1EED"
+    - "Tri\u1EC3n khai"
+    answer: 00000000010000000200000003000000
+  TrueFalseQuestions:
+  - id: q004
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 35
+    question: 
+    answer: 1
+  - id: q006
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 35
+    question: 
+    answer: 0
+  - id: q008
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 35
+    question: 
+    answer: 0
+  - id: q011
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 30
+    question: 
+    answer: 0
+  - id: q015
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 45
+    question: 
+    answer: 0
+  - id: q017
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 35
+    question: 
+    answer: 0
+  - id: q018
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 30
+    question: 
+    answer: 0
+  - id: q020
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 35
+    question: 
+    answer: 0
+  - id: q026
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 15
+    question: 
+    answer: 0
+  - id: q031
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 25
+    question: 
+    answer: 0
+  - id: q037
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 25
+    question: 
+    answer: 0
+  - id: q039
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 25
+    question: 
+    answer: 0
+  - id: q041
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 15
+    question: 
+    answer: 0
+  - id: q050
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 45
+    question: 
+    answer: 0
+  - id: q058
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 15
+    question: 
+    answer: 0
+  - id: q061
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 45
+    question: 
+    answer: 0
+  - id: q064
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 15
+    question: 
+    answer: 0
+  - id: q072
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 30
+    question: 
+    answer: 0
+  - id: q079
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 45
+    question: 
+    answer: 0
+  - id: q081
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 45
+    question: 
+    answer: 0
+  - id: q082
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 30
+    question: 
+    answer: 0
+  - id: q086
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 30
+    question: 
+    answer: 0
+  - id: q095
+    category: 4
+    level: 0
+    type: 4
+    hint: "N\xF3 l\xE0 ng\xF4n ng\u1EEF \u0111\xE1nh d\u1EA5u ch\u1EE9 kh\xF4ng ph\u1EA3i
+      l\u1EADp tr\xECnh."
+    time_limit: 15
+    question: 
+    answer: 0

@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022a2291b89c82040a8bd048c0fdd537, type: 3}
+  m_Name: HathoraServerConfig
+  m_EditorClassIdentifier: 
+  _hathoraCoreOpts:
+    _appId: 
+    _existingAppsSelectedIndex: 5
+    _existingAppsWithDeploymentSerializableSerializable:
+    - _appId: app-f40a6197-e382-47c1-a7b9-6b3326d5b8a7
+      _createdAtWrapper: 02/14/2025 10:22:51
+      _createdBy: 
+      _deletedBy: 
+      _deletedAtWrapper: 
+      _orgId: org-c6a0b25d-2347-4d84-bf21-badbee6237ee
+      _appSecret: secret-5563f672-f0b1-441d-9c1d-39e46cc24107
+      _appName: edu-fusion
+      deploymentSerializable:
+        _env: []
+        _roomsPerProcess: 1
+        _additionalContainerPorts: []
+        defaultContainerPortSerializable:
+          _transportType: 1
+          port: 7777
+        _createdAtWrapper: 02/19/2025 02:57:49
+        _createdBy: org-token-ae46fa30-59fd-4087-9180-f23f1837713e
+        _requestedMemoryMB: 1024
+        _requestedCPU: 0.5
+        _deploymentId: dep-23721632-53a2-4d4a-bd14-66d93d205ac0
+        _buildId: bld-569e0a0f-968c-439d-82df-d9f6ebc468af
+        _appId: app-f40a6197-e382-47c1-a7b9-6b3326d5b8a7
+    - _appId: app-357d0c3e-d6e6-440e-bf89-de703962f9f4
+      _createdAtWrapper: 02/04/2025 04:45:15
+      _createdBy: 
+      _deletedBy: 
+      _deletedAtWrapper: 
+      _orgId: org-c6a0b25d-2347-4d84-bf21-badbee6237ee
+      _appSecret: secret-120e05d5-28a8-43f9-ae8b-b65f456294e0
+      _appName: demofusion
+      deploymentSerializable:
+        _env: []
+        _roomsPerProcess: 1
+        _additionalContainerPorts:
+        - _transportType: 1
+          port: 7771
+          _transportNickname: udp
+        defaultContainerPortSerializable:
+          _transportType: 1
+          port: 7777
+        _createdAtWrapper: 02/17/2025 01:38:09
+        _createdBy: org-token-d09d4b38-b713-4964-b8d4-c329b07522a9
+        _requestedMemoryMB: 1024
+        _requestedCPU: 0.5
+        _deploymentId: dep-de906014-dbb5-48db-9eef-e7feba3accb7
+        _buildId: bld-7aecab63-a932-4bc0-8854-36ac3a758a52
+        _appId: app-357d0c3e-d6e6-440e-bf89-de703962f9f4
+    - _appId: app-e8886b06-dc99-4dea-93fa-1d277b4bde13
+      _createdAtWrapper: 02/05/2025 07:56:03
+      _createdBy: 
+      _deletedBy: 
+      _deletedAtWrapper: 
+      _orgId: org-c6a0b25d-2347-4d84-bf21-badbee6237ee
+      _appSecret: secret-957b3a9a-80d2-4978-8905-662f0a04be9b
+      _appName: fps
+      deploymentSerializable:
+        _env: []
+        _roomsPerProcess: 1
+        _additionalContainerPorts: []
+        defaultContainerPortSerializable:
+          _transportType: 1
+          port: 7777
+        _createdAtWrapper: 02/14/2025 09:11:15
+        _createdBy: org-token-d09d4b38-b713-4964-b8d4-c329b07522a9
+        _requestedMemoryMB: 1024
+        _requestedCPU: 0.5
+        _deploymentId: dep-4c6c0bda-3596-4a74-acba-c1991ce9621c
+        _buildId: bld-86c744b7-d515-4401-8423-52da3d248e14
+        _appId: app-e8886b06-dc99-4dea-93fa-1d277b4bde13
+    - _appId: app-52f32aaa-c7d4-4aca-a96c-9c33445bc557
+      _createdAtWrapper: 02/17/2025 02:31:40
+      _createdBy: 
+      _deletedBy: 
+      _deletedAtWrapper: 
+      _orgId: org-c6a0b25d-2347-4d84-bf21-badbee6237ee
+      _appSecret: secret-db3ebe44-0e98-40c8-8081-98db604cd42d
+      _appName: acuong
+      deploymentSerializable:
+        _env: []
+        _roomsPerProcess: 0
+        _additionalContainerPorts: []
+        defaultContainerPortSerializable:
+          _transportType: 1
+          port: 7777
+        _createdAtWrapper: 
+        _createdBy: 
+        _requestedMemoryMB: 0
+        _requestedCPU: 0
+        _deploymentId: 
+        _buildId: 
+        _appId: 
+    - _appId: app-9af109b6-b074-46f5-8752-e56fb53ecb17
+      _createdAtWrapper: 02/04/2025 07:20:07
+      _createdBy: 
+      _deletedBy: 
+      _deletedAtWrapper: 
+      _orgId: org-c6a0b25d-2347-4d84-bf21-badbee6237ee
+      _appSecret: secret-37e52373-5142-481b-a770-37cacd069017
+      _appName: fusion
+      deploymentSerializable:
+        _env: []
+        _roomsPerProcess: 0
+        _additionalContainerPorts: []
+        defaultContainerPortSerializable:
+          _transportType: 1
+          port: 7777
+        _createdAtWrapper: 
+        _createdBy: 
+        _requestedMemoryMB: 0
+        _requestedCPU: 0
+        _deploymentId: 
+        _buildId: 
+        _appId: 
+    - _appId: app-c6803c8c-b302-41c6-9d58-9acd4f912208
+      _createdAtWrapper: 02/19/2025 03:01:00
+      _createdBy: 
+      _deletedBy: 
+      _deletedAtWrapper: 
+      _orgId: org-c6a0b25d-2347-4d84-bf21-badbee6237ee
+      _appSecret: secret-7e1804c8-b929-4fa0-876b-d04e71b60124
+      _appName: multipdevice
+      deploymentSerializable:
+        _env: []
+        _roomsPerProcess: 0
+        _additionalContainerPorts: []
+        defaultContainerPortSerializable:
+          _transportType: 1
+          port: 7777
+        _createdAtWrapper: 
+        _createdBy: 
+        _requestedMemoryMB: 0
+        _requestedCPU: 0
+        _deploymentId: 
+        _buildId: 
+        _appId: 
+    _devAuthOpts:
+      _hathoraDevToken: dfWOipMJWFmvenu5v1OTsmcMzJxxWW3hv7UKWP4aKoBog
+      _forceNewToken: 0
+  _linuxHathoraAutoBuildOpts:
+    _serverBuildDirName: Build-Server
+    _serverBuildExeName: Hathora-Unity_LinuxServer.x86_64
+    _isDevBuild: 1
+    _cleanBuildDir: 1
+    _overwriteDockerfile: 1
+    _scriptingBackendIndex: 1
+    _lastBuildLogsStr: "18/03/2025 10:44 SA\r\nPreparing local server build...\r\noverwriteExistingDockerfile?
+      True\r\n\r\nCleaning/creating build dir @ path: `D:\\lamnino\\STI\\Edu\\newest\\edu-world-game_clone_0\\Build-Server`
+      ...\r\n\r\nConfiguring scripting backend: IL2CPP\r\nBUILDING now (this may
+      take a while), with opts:\r\n```\r\nscenes: `Assets/Lam/Scenes/Startup.unity`,
+      `Assets/LeartesSudios/Stylized Sci-Fi Modern City/Scene/EduWord_Fix.unity`\n\nlocationPathName:
+      `D:\\lamnino\\STI\\Edu\\newest\\edu-world-game_clone_0\\Build-Server\\Hathora-Unity_LinuxServer.x86_64`\ntarget:
+      `StandaloneLinux64`\noptions: `None`\nstandaloneBuildSubtarget `1`\r\n```\r\n\r\nGenerating
+      Dockerfile to `D:\\lamnino\\STI\\Edu\\newest\\edu-world-game_clone_0\\.hathora\\Dockerfile`
+      ...\r\n```\r\n############################################################################\r\n#
+      This Dockerfile is auto-generated by HathoraDocker.cs @ 2025-03-18_104447\r\n############################################################################\r\n\r\n#
+      Using 'Jammy Jellyfish' Ubuntu LTS\r\nFROM ubuntu:22.04\r\n\r\n# Update system
+      and install certificates: Prevents TLS/SSL (https) errs, notably with UnityWebRequests\r\nRUN
+      apt-get update && \\\r\n    apt-get install -y ca-certificates && \\\r\n   
+      update-ca-certificates\r\n\r\n# Copy the server build files into the container,
+      if Dockerfile is @ parent\r\nCOPY ./Build-Server .\r\n\r\n# Give execute permission
+      for the script\r\nRUN chmod +x ./Hathora-Unity_LinuxServer.x86_64\r\n\r\n#
+      Run the Linux server in headless mode as a dedicated server\r\n# Add `-scene
+      <sceneName>` to load a scene before loading the mode\r\nCMD [ \\\r\n  \"./Hathora-Unity_LinuxServer.x86_64\",
+      \\\r\n  \"-batchmode\", \\\r\n  \"-nographics\", \\\r\n  \"-mode\", \"server\"
+      \\\r\n]\r\n\r\n```\r\n\r\n**BUILD SUCCESS: Succeeded**\r\nOpening build dir
+      ...\r\n\r\nresult: Succeeded\r\ntotalSize: 2121MB\r\ntotalWarnings: 28\r\ntotalErrors:
+      2\r\n\r\n<color=#66B9A0>Completed</color> 18/03/2025 11:02 SA (in 9m:59s)\r\nBUILD
+      DONE\r\n"
+  _hathoraDeployOpts:
+    _roomsPerProcess: 1
+    _planNameIndexIndex: 0
+    _containerPortSerializableSerializable:
+      _transportType: 1
+      port: 7777
+    _transportTypeIndex: 0
+  _hathoraLobbyRoomOpts:
+    _hathoraRegionIndex: 11

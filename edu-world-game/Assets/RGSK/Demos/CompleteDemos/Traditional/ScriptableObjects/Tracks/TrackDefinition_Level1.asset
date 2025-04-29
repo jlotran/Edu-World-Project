@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7cfe69904130c841baf8067640e9dbc, type: 3}
+  m_Name: TrackDefinition_Level1
+  m_EditorClassIdentifier: 
+  id:
+    value: 80f1ae25-57ca-43e0-b3d1-beaa9c4d665b
+  objectName: Danang Town (Beach)
+  description: Requirement and reward
+  icon: {fileID: 0}
+  previewPhoto: {fileID: 1518937066, guid: d1175f7dc3a851f4a8befc5cee0aa681, type: 3}
+  unlockMode: 1
+  unlockPrice: 0
+  unlockXPLevel: 0
+  unlockCondition: 
+  scene:
+    sceneAsset: {fileID: 102900000, guid: a89a5866567eefd4e94e0d77002885f4, type: 3}
+    scenePath: Assets/RGSK/EduWorld/Scene/Racing/Level1.unity
+  country: {fileID: 11400000, guid: f08c55cd4e2c9764b935c9d7887fa6b2, type: 2}
+  minimapPreview: {fileID: 0}
+  layoutType: 0
+  length: 2700
+  gridSlots: 10
+  allowRollingStarts: 1
+  allowedRaceTypes: []
+  requirements:
+  - {fileID: 11400000, guid: b32bf173f5280b343a5422a141b36688, type: 2}
+  - {fileID: 11400000, guid: 0b856a06ce72b33428d2bc3f01c68f8d, type: 2}
+  - {fileID: 11400000, guid: 5410382f8a9ad994982613b8e96d1b06, type: 2}
+  rewards:
+  - {fileID: 11400000, guid: 1b78066e0102c6644b1bf7daf075b517, type: 2}
+  - {fileID: 11400000, guid: a645a503983bc0e44ac8bedd81edbcd4, type: 2}
+  - {fileID: 11400000, guid: 3a594753385010f4cbffe8c163591fe2, type: 2}
+  - {fileID: 11400000, guid: eed413a4c051d784ab060a5299e46b67, type: 2}

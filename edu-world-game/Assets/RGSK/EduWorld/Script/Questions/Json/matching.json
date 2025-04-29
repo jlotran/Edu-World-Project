@@ -1,0 +1,13 @@
+{
+  "id": "q003",
+  "type": "matching",
+  "level": "mid",
+  "category": "vocabulary",
+  "pairs": [
+    { "left": "HTML", "right": "Ngôn ngữ đánh dấu" },
+    { "left": "CSS", "right": "Tạo kiểu giao diện" },
+    { "left": "JS", "right": "Tương tác động" }
+  ],
+  "shuffled_right": ["Ngôn ngữ đánh dấu", "Tương tác động", "Tạo kiểu giao diện"],
+  "time_limit": 45
+}
