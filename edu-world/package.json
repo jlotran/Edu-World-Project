@@ -1,0 +1,37 @@
+{
+  "name": "edu-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "workspaces/server",
+    "workspaces/cms"
+  ],
+  "scripts": {
+    "lint": "lint-staged",
+    "prepare": "husky",
+    "server:dev": "npm run dev --workspace=server",
+    "server:lint": "npm run lint --workspace=server",
+    "server:lint:fix": "npm run lint:fix --workspace=server",
+    "cms:dev": "npm run dev --workspace=cms",
+    "cms:lint": "npm run lint --workspace=cms",
+    "cms:lint:fix": "npm run lint:fix --workspace=cms",
+    "lint:check": "npm run lint --workspace=cms && npm run lint --workspace=server",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.2.10",
+    "prettier": "^3.3.3"
+  },
+  "lint-staged": {
+    "workspaces/server/**/*.{js,ts}": [
+      "npm run lint --workspace=server"
+    ],
+    "workspaces/cms/**/*.{js,ts}": [
+      "npm run lint --workspace=cms"
+    ]
+  }
+}

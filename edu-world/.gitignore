@@ -1,0 +1,14 @@
+node_modules/
+.env
+.ide
+.idea
+workspaces/client/.env.local
+.vscode
+*.sqlite
+workspaces/client/dist/scripts
+workspaces/client/.next
+/.idea
+workspaces/cms/dist/
+workspaces/server/src/test.ts
+workspaces/cocos/extensions/fix-devices-1.0.2/
+library/
